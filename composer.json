@@ -1,0 +1,32 @@
+{
+    "name": "sizeg/yii2-newton-cool-ranking-behavior",
+    "description": "Yii2 Newton cool ranking behavior",
+    "type": "yii2-extension",
+    "keywords": [
+        "yii2",
+        "newton",
+        "behavior"
+    ],
+    "homepage": "https://github.com/sizeg/yii2-newton-cool-ranking-behavior",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dmitry Demin",
+            "email": "sizemail@gmail.com",
+            "homepage": "http://size.perm.ru",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/sizeg/yii2-newton-cool-ranking-behavior/issues",
+        "source": "https://github.com/sizeg/yii2-newton-cool-ranking-behavior"
+    },
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "sizeg\\newtoncoolranking\\": ""
+        }
+    }
+}
